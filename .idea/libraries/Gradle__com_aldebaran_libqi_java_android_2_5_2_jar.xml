@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aldebaran:libqi-java-android:2.5.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aldebaran/libqi-java-android/2.5.2/f269e082a842540a10c6dba1229bbc4e60647f4e/libqi-java-android-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aldebaran/libqi-java-android/2.5.2/a4fe9937629a0776de743fc98a238b01a949c5f6/libqi-java-android-2.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
